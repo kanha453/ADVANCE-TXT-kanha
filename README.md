@@ -46,6 +46,46 @@ Buildpack - https://github.com/heroku/heroku-buildpack-activestorage-preview
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
+## Deploy To Cloud Shell Editor
+<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Soninkuwal/ADVANCE-TXT-kanha&tutorial=help/gcloud.md" >
+  <img src="https://raw.githubusercontent.com/Soninkuwal/ADVANCE-TXT-kanha/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
+  
+## Deploy To codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Soninkuwal/ADVANCE-TXT-kanha)
+
+## Deploy To VPS
+```
+git clone https://github.com/Soninkuwal/ADVANCE-TXT-kanha
+```
+
+```
+cd ADVANCE-TXT-kanha
+```
+
+```
+nano modules/vars.py
+```
+
+USE : `ctrl + s` : FOR SAVE | `ctrl + x` : FOR EXIT
+
+```
+sudo apt install docker.io -y
+```
+```
+sudo docker build -t text-leech-bot-by-ashu .
+```
+
+```
+sudo docker run -it --rm text-leech-bot-by-ashu
+```
+
+
+
+
+
+
+
 ## Deploy To Koyeb
 
 [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=advance-txt-uploader&repository=Tushar557845%2FADVANCE-TXT-UPLOADER&branch=main&builder=dockerfile&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=300&ports=8080%3Bhttp%3B%2F&hc_protocol%5B8080%5D=tcp&hc_grace_period%5B8080%5D=5&hc_interval%5B8080%5D=30&hc_restart_limit%5B8080%5D=3&hc_timeout%5B8080%5D=5&hc_path%5B8080%5D=%2F&hc_method%5B8080%5D=get)
