@@ -42,7 +42,7 @@ Buildpack - https://github.com/heroku/heroku-buildpack-activestorage-preview
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/github/kanha453/ADVANCE-TXT-kanha/blob/main/ADVANCE-TXT-kanha1.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/kanha453/ADVANCE-TXT-kanha/blob/main/ADVANCE-TXT-kanha.ipynb" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
