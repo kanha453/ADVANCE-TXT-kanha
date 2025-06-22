@@ -42,21 +42,21 @@ Buildpack - https://github.com/heroku/heroku-buildpack-activestorage-preview
 
 ## Deploy To Google Colab
 
-<a href="https://colab.research.google.com/github/Soninkuwal/ADVANCE-TXT-kanha/blob/main/ADVANCE-TXT-kanha1.ipynb" target="_blank">
+<a href="https://colab.research.google.com/github/kanha453/ADVANCE-TXT-kanha/blob/main/ADVANCE-TXT-kanha1.ipynb" target="_blank">
   <img src="https://ashutoshgoswami24.github.io/Me/img/gc.png" alt="Deploy To Google Colab" style="width:150px;"/>
 </a>
 
 ## Deploy To Cloud Shell Editor
-<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Soninkuwal/ADVANCE-TXT-kanha1&tutorial=help/gcloud.md" >
+<a target="/blank" href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/kanha453/ADVANCE-TXT-kanha1&tutorial=help/gcloud.md" >
   <img src="https://raw.githubusercontent.com/AshutoshGoswami24/text-leech-bot/main/.github/img/x.svg" alt="Deploy To Cloud Shell Editor" style="width:170px;"></a>
   
 ## Deploy To codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Soninkuwal/ADVANCE-TXT-kanha1)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/kanha453/ADVANCE-TXT-kanha1)
 
 ## Deploy To VPS
 ```
-git clone https://github.com/Soninkuwal/ADVANCE-TXT-kanha1
+git clone https://github.com/kanha453/ADVANCE-TXT-kanha1
 ```
 
 ```
